@@ -1,0 +1,7 @@
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.csprojResolveAssemblyReference.cache
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\bin\Debug\DataStructuresGroup.exe.config
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\bin\Debug\DataStructuresGroup.exe
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\bin\Debug\DataStructuresGroup.pdb
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.exe
+C:\Users\Brooke\Documents\School\Fall 2017\403\DataStructuresGroup\DataStructuresGroup\obj\Debug\DataStructuresGroup.pdb
