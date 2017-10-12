@@ -1,0 +1,49 @@
+-know the sales order database
+-8 MC questions
+-17 queries
+-1.5 hours
+
+CH1 
+-know what a database is
+-difference between analytical and operational databases
+-structure of the database (record, row, ect)
+-different relationships (1-1, 1-many, ect)
+
+CH2 
+-what do keys do (primary, deposit, foreign)
+
+-what are views (schedule lecture notes)
+-convert data through casting (pg 114)
+-floor ( take number and round down) and ceil (take number and round up), mod, 
+-logical operators
+-concatination 
+-how tocompare data (=, between, in, like, IS NULL)
+
+Ch 6
+-know comparissons (pg 160)
+
+-Ch 7 / 8
+-different in intersection, union
+
+CH 19
+-how case statement works (2 problems)
+
+MULTIPLE CHOICE!
+-Select, from, where statement
+-No group by or having
+-rename a collumn and table
+-eliminate duplicates (distinct)
+-order by (default ascending) for multiple collumns 
+-* to search for everything
+-top (top 10 would show the top ten results)
+-aggregates: count (number of records), max (shows the biggest amount), sum (add up data), min (shows the smallest amount)date;
+	SELECT sum(orders_Amount) AS [Total_Orders]
+	FROM Orders
+	WHERE SalesPerson = 'Anderson';
+-work with dates and times (date diff)
+-pg 141-144 (working with NULL)
+-pattern searching (% and _ in strings)
+-order of precidence; () solve problem
+-inner join
+-get date function
+-YOU LOSE POINTS FOR UGLY COLLUMN NAMES
